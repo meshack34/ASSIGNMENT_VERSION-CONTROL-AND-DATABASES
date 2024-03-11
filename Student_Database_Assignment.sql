@@ -15,8 +15,7 @@ VALUES (01, 'Phanice Nekesa ', 22, 'F', '2024-01-24', 'Data Science'),
 (02, 'Meshack kimutai', 22, 'F', '2024-01-24', 'Software Engineering'),
 (03, 'Maureen Ougo ', 24, 'F', '2024-01-24', 'Computer Science'),
 (04, 'Sheila Lekishon ', 24, 'F', '2024-01-24', 'Information Technology'),
-(05, 'Victor Ochieng', 21, 'M', '2024-03-24', 'Data Science')
-;
+(05, 'Victor Ochieng', 21, 'M', '2024-03-24', 'Data Science');
 
 
 
